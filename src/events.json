@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Team Sync",
+    "date": "2025-06-20",
+    "time": "10:00 AM",
+    "duration": "1h"
+  },
+  {
+    "title": "Client Meeting",
+    "date": "2025-06-21",
+    "time": "02:30 PM",
+    "duration": "45m"
+  },
+  {
+    "title": "Project Deadline",
+    "date": "2025-06-25",
+    "time": "11:59 PM",
+    "duration": "N/A"
+  },
+  {
+    "title": "Design Review",
+    "date": "2025-06-21",
+    "time": "03:00 PM",
+    "duration": "1h"
+  },
+  {
+    "title": "Parent-Teacher Meeting",
+    "date": "2025-06-23",
+    "time": "09:00 AM",
+    "duration": "1h"
+  },
+  {
+    "title": "Kids' Drawing Class",
+    "date": "2025-06-23",
+    "time": "04:00 PM",
+    "duration": "1.5h"
+  },
+  {
+    "title": "Student Group Study",
+    "date": "2025-06-24",
+    "time": "06:00 PM",
+    "duration": "2h"
+  },
+  {
+    "title": "Yoga Session",
+    "date": "2025-06-20",
+    "time": "07:00 AM",
+    "duration": "1h"
+  },
+  {
+    "title": "Doctor Appointment",
+    "date": "2025-06-26",
+    "time": "11:30 AM",
+    "duration": "30m"
+  },
+  {
+    "title": "Office Townhall",
+    "date": "2025-06-28",
+    "time": "03:00 PM",
+    "duration": "2h"
+  }
+]
